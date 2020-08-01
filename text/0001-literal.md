@@ -41,7 +41,7 @@ Each feature of Literal should have a corresponding RFC with a detailed design. 
 - **State Management**: State management will be part of the core to promote standardization and maturity of the framework.
 - **Styling**: A standardized approach to styling with modern best practice and optimal performance.
 - **Build Tooling**: Literal will provide all the tools necessary to establish optimized builds.
-- **Dev and Production Server**: Generating static files will be supported but also a standard server. This server should support both dev and production modes.
+- **Server Support**: Should support a Node.js server runtime and serverless sites.
 - **Unit Testing Framework**: Literal will provide a framework for unit testing components and state.
 - **Examples**: Literal will provide implementation code examples.
 
